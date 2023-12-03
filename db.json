@@ -67,41 +67,4 @@
 
         "img": "https://m.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/cappella_sistina/00_00_Cappella_Sistina/_jcr_content/renditions/original.png"
       }
-    ],
-    "photos":[
-     {
-      "id": 1721,
-      "image": "https://www.thecolosseum.org/wp-content/uploads/2017/09/Colosseum-optimized.jpg",
-      "description": "Colosseum",
-      "albumId": 172
-    },
-    {
-      "id": 1722,
-      "image": "https://www.rome.info/wp-content/uploads/f-colosseum-second-floor.jpg",
-      "description": "Colosseum",
-      "albumId": 172
-    },
-    {
-      "id": 1731,
-      "image": "https://www.geoengineer.org/storage/news/2020/featured_image/370/77b4cce0b69b99bdd89ed5fe2f72704d_XL.jpg",
-      "description": "Leaning Tower of Pisa",
-      "albumId": 173
-    },
-    {
-      "id": 1732,
-      "image": "https://cdn-imgix.headout.com/media/images/17911bb45a4df660827dd1d73a1cc492-21985-pisa-pisa-cathedral-guided-tour-and-leaning-tower-011.jpg?auto=format&w=814.9333333333333&h=458.4&q=90&fit=crop&ar=16%3A9",
-      "description": "Leaning Tower of Pisa",
-      "albumId": 173
-    },
-  ],
-  "highlights": [
-    {
-      "id": 1,
-      "albumId": 172
-    },
-    {
-      "id": 2,
-      "albumId": 173
-    }
-  ]
-    }
+    ]
